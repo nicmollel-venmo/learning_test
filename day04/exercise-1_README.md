@@ -1,3 +1,13 @@
+# H1
+## H2
+### h3
+- item 1
+- item 2
+### numbered 
+1. numbered
+2. another item 
+
+paragraphs with _italic_ and **bold** and [a link to parent folder](../day04)
 ## Heads or Tails
 
 # Instructions
