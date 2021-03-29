@@ -7,6 +7,7 @@ def state2():
 
 def state1():
   print('State 1')
+  
 
 if __name__ == "__main__":
   state2()
